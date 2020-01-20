@@ -1,2 +1,2 @@
-# SSL-Project
-SSL implementation for school project
+# TLS-Project
+TLS implementation for school project
